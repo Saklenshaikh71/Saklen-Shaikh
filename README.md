@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saklen Shaikh</h1>
 <h3 align="center">I am a dedicated Data analyst from Pune, India, with a passion for uncovering insights and making data-driven decisions. I thrive on transforming raw data into actionable strategies and meaningful stories. Let's connect and harness the power of data together</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saklenshaikh71&label=Profile%20views&color=0e75b6&style=flat" alt="saklenshaikh71" /> </p>
 
